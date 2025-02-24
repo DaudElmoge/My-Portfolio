@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // Change header background color when clicked
   header.addEventListener("click", function () {
     header.style.backgroundColor = "#FF5722"; // Change to orange
-    alert("Access denied");
+    alert("Acces denied!");
   });
 
   // Log a message to the console
