@@ -1,0 +1,55 @@
+.download {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.download:hover {
+  background-color: #ff5722;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+  background-color: #f4f4f4;
+}
+.container {
+  max-width: 800px;
+  margin: auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 20px #4caf50;
+}
+h1,
+h2 {
+  color: #4caf50;
+}
+h1 {
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  margin-bottom: 10px;
+}
+.section {
+  margin-bottom: 20px;
+}
+.contact p,
+.contact a {
+  margin: 5px 0;
+}
+.skills ul,
+.hobbies ul {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
